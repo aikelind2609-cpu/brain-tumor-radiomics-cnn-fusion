@@ -1,0 +1,6 @@
+data/ 
+venv_brain/ 
+.ipynb_checkpoints/ 
+__pycache__/ 
+*.pkl 
+features/*.csv 
